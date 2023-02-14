@@ -1,0 +1,2 @@
+place generated api key from newsvibe_web_app/scripts/make_api_key.py here
+or just copy same file from  newsvibe_web_app/data/valid_api_keys.txt
