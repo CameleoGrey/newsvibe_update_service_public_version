@@ -6,6 +6,9 @@
 # About
 
 Data scrapping, processing and updating frontend part of my news analyzing service.
+Project grew up from fully reworked ProfitTM (https://github.com/CameleoGrey/ProfitTM).
+
+![](newsvibe_architecture.png)
 
 # Installation
 
@@ -18,4 +21,5 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
+Copy valid_api_keys.txt from newsvibe_web_app/data/valid_api_keys.txt to newsvibe_update_service/data/production/.
 Place your proxy proxy_login:password@proxy_pool_ip:port into ./src/scripts/run_update_pipeline.py and run the script.
