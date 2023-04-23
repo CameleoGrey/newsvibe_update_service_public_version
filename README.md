@@ -1,7 +1,7 @@
 
 # Preview
 
-![](newsvibe_preview.png)
+![](newsvibe_preview_1.png)
 
 # About
 
